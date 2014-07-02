@@ -161,6 +161,18 @@
         ]
       },
       {
+        "title": "What is connected to the internet?",
+        "links": [
+          "Find devices connected to the web with <a href=\"http://www.shodanhq.com/\">Shodan</a> From routers and cell phones to coffee makers and luxury cars.</a>"
+          ]
+      },
+      {
+        "title": "The worlds first computational knowledge engine",
+        "links": [
+          "<script id=\"WolframAlphaScript\" src=\"http://www.wolframalpha.com/input/embed/?type=largeannot\" type=\"text/javascript\"></script>"
+          ]
+      },
+      {
         "title": "Search Creative Commons images",
         "links": [
           "Find free openly-licensed images from multiple sources using this handy <a href=\"http://search.creativecommons.org/\">Creative Commons search hub</a>."
@@ -185,17 +197,11 @@
         ]
       },
       {
-        "title": "What is the world searching today?",
+        "title": "There are many ways of indexing information and then searching through those indexes.",
         "links": [
-          "<a href=\"http://www.google.com/trends/\">See what the world is searching for</a> using Google Trends."
+          "Here are a couple more interesting search engines to try. <a href=\"http://www.spezify.com/\">Spezify - Visual Search</a>, <a href=\"http://www.thrall.org/lightswitch/general.html\">Lightswitch</a>, <>"
         ]
-      },
-      {
-        "title": "I don&rsquo;t want my searches to be tracked....",
-        "links": [
-          "Search without allowing your searches to be tracked using <a href=\"https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature\">Do Not Track by Firefox</a>."
-        ]
-      },
+        },
       {
         "title": "How does search work?",
         "links": [
@@ -215,10 +221,11 @@
       {
         "title": "Change your browser&rsquo;s default search bar",
         "description": "Step-by-step instructions on <a href=\"http://www.searchenginejournal.com/change-your-default-search-engine-in-firefox-google-chrome-ie/\">how to change the search bar in various web browsers.</a>"
-      }
+      },
     ],
     "teach": {
-      "kits": [
+        "kits": [
+        {
           "title": "Image seeking for fantastic visual metaphors",
           "description": "Lead learners through the process of finding reusable images to represent concepts and ideas.",
           "url": "https://cogdog.makes.org/thimble/OTM3NDI2OTQ0/imageseeking-for-fantastic-visual-metaphors",
